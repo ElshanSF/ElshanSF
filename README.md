@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elshan</h1>
-<h3 align="center">A passionate Ph.D. student in electrical engineering from Iran living in Turkiye, focusing on multi-objective optimization.</h3>
+<h3 align="center">A passionate research assistant in electrical engineering from Iran living in Turkiye, focusing on multi-objective optimization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elshansf&label=Profile%20views&color=0e75b6&style=flat" alt="elshansf" /> </p>
 
